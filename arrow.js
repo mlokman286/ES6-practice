@@ -21,4 +21,4 @@ const result = doubleIt(21);
 const result2 = add(3,5);
 const result3 = give5();
 const result4 = doMath(8,5)
-console.log(result3);
+console.log(result4);
